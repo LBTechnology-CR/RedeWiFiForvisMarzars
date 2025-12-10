@@ -6,6 +6,8 @@ Este projeto teve como objetivo a reestruturação e fortalecimento da infraestr
 
 A iniciativa partiu da necessidade de maior visibilidade, controle e confiabilidade sobre o tráfego interno e externo, garantindo uma rede alinhada às boas práticas de segurança e preparada para crescimento.
 
+![](./IMG/Projeto%20de%20melhoria.png)
+
 ---
 
 ## 2. Contexto Inicial (Problemas Identificados)
@@ -37,6 +39,8 @@ Os principais objetivos definidos foram claros e mensuráveis:
 * Otimizar o **desempenho e estabilidade do Wi‑Fi corporativo**
 * Separar ambientes (corporativo, mobile e guest)
 
+![](./IMG/Projeto%20de%20melhoria2.png)
+
 ---
 
 ## 4. Arquitetura da Solução
@@ -60,6 +64,8 @@ A solução adotada foi baseada em segmentação lógica, controle centralizado 
 * **Rede de Gerência** – administração de equipamentos
 
 Essa abordagem reduziu drasticamente riscos de movimentação lateral e melhorou a performance geral da rede.
+
+![](./IMG/Componentes%20Principais.png)
 
 ---
 
